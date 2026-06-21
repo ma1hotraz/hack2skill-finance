@@ -1,0 +1,8 @@
+{
+  "name": "Smart Personal Finance Assistant",
+  "description": "An AI-powered personal budgeting companion to log expenses, distribute category allocations, and chat about financial planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
